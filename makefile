@@ -10,7 +10,7 @@ out = $(src:.c=)
 %.o: %.c
 	$(CC) $(CFLAGS) -c $< -o $@
 
-$(out): % : %.o test/test.o
+$(out): %: %.o test/test.o
 	$(LD) $(LDFLAGS) $^ -o $@
 
 .PHONY: clean
