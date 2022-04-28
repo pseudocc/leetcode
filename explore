@@ -1,4 +1,5 @@
 #26	Remove Duplicates from Sorted Array	rmdup	array;
 #122	Best Time to Buy and Sell Stock II	stock2	array;
+#136	Single Number	sgnum.c	array;
 #189	Rotate Array	rtarr.c	array;
 #217	Contains Duplicate	hasdup.c	array;hash set;
