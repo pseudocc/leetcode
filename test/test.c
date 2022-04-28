@@ -80,6 +80,20 @@ ABORT:
   return arr;
 }
 
+int read_int(int* n) {
+  char* line;
+  size_t cap;
+  
+  line = NULL;
+  cap = 0;
+
+  if (getline(&line, &cap, stdin) == EOF)
+    return 0;
+
+  *n = atoi(line);
+  return 1;
+}
+
 int* read_arr(int* n) {
   int* arr;
   char* line;
