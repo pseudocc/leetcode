@@ -5,3 +5,4 @@
 #217	Contains Duplicate	hasdup.c	array;hash set;
 #350	Intersection of Two Arrays II	its2arr.c	array;
 #66	Plus One	plus1.c	array;math;
+#283	Move Zeroes	mv0.c	array;sort;
