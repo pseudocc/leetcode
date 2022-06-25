@@ -7,3 +7,4 @@
 #66	Plus One	plus1.c	array;math;
 #283	Move Zeroes	mv0.c	array;sort;
 #665	Non-decreasing Array	ndecarr.c	array;
+#27	Remove Element	rmelem.c	array;
