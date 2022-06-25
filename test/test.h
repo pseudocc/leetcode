@@ -3,6 +3,7 @@
 
 #include <stdlib.h>
 #include <stdio.h>
+#include <string.h>
 
 typedef struct list_node* list_t;
 typedef struct llist_node* llist_t;
