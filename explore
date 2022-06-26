@@ -9,3 +9,4 @@
 #665	Non-decreasing Array	ndecarr.c	array;
 #27	Remove Element	rmelem.c	array;
 #7	Reverse Integer	ri32.c	bigint;
+#1423	Maximum Points You Can Obtain from Cards	maxpts.c	array;
